@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+{% block title %}
+    Welcome My Library
+{% endblock %}
+{% block content %}
+    <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-dark" style="color:white">
+        <img class="display-4 mt-4" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&width=1000&section=header&text=Welocome%20To%20My%20Amazing%20Library&fontSize=50&animation=fadeIn&fontAlignY=36&desc=Start%20Having%20Books%20By%20Clicking%20On%20Button%20Below&descAlignY=51&descAlign=62"/>
+        <div class="col-md-5 p-lg-5 mx-auto my-5">
+            <a class="btn btn-primary" href="{{ url_for('library_page') }}">Go!</a>
+        </div>
+        <div class="product-device box-shadow d-none d-md-block"></div>
+        <div class="product-device product-device-2 box-shadow d-none d-md-block"></div>
+    </div>
+{% endblock %}
