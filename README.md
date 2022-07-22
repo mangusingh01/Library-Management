@@ -30,9 +30,9 @@ Every user is given fix number of coins initially, which can be used to used to 
 ## Screenshots
 
 | | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="1" src="readme_resources/1.png"> | <img width="1604" alt="2" src="readme_resources/2.png">|<img width="1604" alt="3" src="readme_resources/3.png">|
-|<img width="1604" alt="4" src="readme_resources/4.png">  |  <img width="1604" alt="5" src="readme_resources/5.png">|<img width="1604" alt="6" src="readme_resources/6.png">
+|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="1" src="readme_resources/register.png"> | <img width="1604" alt="2" src="readme_resources/login.png">|
+|<img width="1604" alt="4" src="readme_resources/home.png">  |  <img width="1604" alt="5" src="readme_resources/library_page.png">|
 
 
 
